@@ -7,7 +7,8 @@ The Report file with all the details are included in the file Data_Divas_MLDM_Re
 
 Three datasets, namely, Water Quality Classification, Mushroom Classification and Pyrimidine SAR (structure-activity relationship) had been considered for the Coursework. Also, the mountain car problem had been chosen for Reinforcement Learning.
 
-The datasets and required references are mentioned below:
+## References
+The datasets / mountain car problem can be found at:
 
 https://www.kaggle.com/adityakadiwal/water-potability
 
