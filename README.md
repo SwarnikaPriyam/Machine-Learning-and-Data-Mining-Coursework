@@ -1,30 +1,14 @@
 # Machine-Learning-and-Data-Mining-Coursework
 This group coursework was implemented by five members in a team from the University of Surrey, 2021-2022.
 
-Set Up Instructions
+The Set Up Instructions are included in the file Data_Divas_MLDM_Set_Up.
 
-  •	All the three datasets must be included in the same folder where the Jupyter notebooks are saved.
-  
-  •	Install Jupyter
-  
-Packages to be installed:
+The Report file with all the details are included in the file Data_Divas_MLDM_Report. 
 
-  •	Open AI gym
-  
-  •	Wrappers module in gym
-  
-  •	PySwip- import prolog, variable, functor
-  
-  •	Install all the necessary libraries imported in the corresponding notebooks.
-  
-Filename:
+Three datasets, namely, Water Quality Classification, Mushroom Classification and Pyrimidine SAR (structure-activity relationship) had been considered for the Coursework. Also, the mountain car problem had been chosen for Reinforcement Learning.
 
-  •	Data_Divas_MLDM_Water.ipynb - notebook implemented on water quality dataset.
-  
-  •	Data_Divas_MLDM_Mushroom.ipynb - notebook implemented on mushroom classification dataset.
-  
-  •	Data_Divas_MLDM_Pyrimidines_ILP.ipynb - notebook implemented for ILP on Pyrimidines dataset.
-  
-  •	Data_Divas_MLDM_Pyrimidines_num.ipynb - notebook with other models implemented on the CSV file of Pyrimidines dataset.
-  
-  •	Data_Divas_MLDM_QL.ipynb - notebook implemented on Mountain Car environment for Q-Learning.
+The datasets and required references are mentioned below:
+https://www.kaggle.com/adityakadiwal/water-potability
+https://www.kaggle.com/uciml/mushroom-classification
+https://www.doc.ic.ac.uk/~shm/e_coli.html
+https://gym.openai.com/envs/MountainCarContinuous-v0/
