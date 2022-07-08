@@ -5,7 +5,7 @@ The Set Up Instructions are included in the file Data_Divas_MLDM_Set_Up.docx.
 
 The Report file with all the details are included in the file Data_Divas_MLDM_Report.pdf. 
 
-
+This group coursework was implemented by five members in a team from the University of Surrey, 2021-2022.
 
 ## References
 The datasets / mountain car problem can be found at:
