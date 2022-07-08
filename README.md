@@ -5,7 +5,7 @@ The Set Up Instructions are included in the file Data_Divas_MLDM_Set_Up.docx.
 
 The Report file with all the details are included in the file Data_Divas_MLDM_Report.pdf. 
 
-Three datasets, namely, Water Quality Classification, Mushroom Classification and Pyrimidine SAR (structure-activity relationship) had been considered for the Coursework. Also, the mountain car problem had been chosen for Reinforcement Learning.
+The coursework included two classification problems for Water Quality and Mushroom Classification. To implement ILP, the Pyrimidine SAR (structure-activity relationship) problem and to implement reinforcement learning, the mountain car problem had been chosen.
 
 ## References
 The datasets / mountain car problem can be found at:
